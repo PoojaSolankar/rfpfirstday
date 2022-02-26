@@ -1,6 +1,2 @@
 Good Morning
  hello 
- world
-evening.
-today
-yesterday
