@@ -3,4 +3,8 @@ Good Morning
 good afternoon
 very good
 change by developer two
+<<<<<<< Updated upstream
 change by developer two
+=======
+change by developer one
+>>>>>>> Stashed changes
